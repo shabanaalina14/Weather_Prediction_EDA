@@ -23,4 +23,12 @@ In this project, we explore various weather data sets, uncover trends, correlati
 - Analyze seasonal and geographical patterns.
 - Weather Forecasting: Predict future weather conditions based on historical data using models trained on EDA insights.
 
-  https://github.com/shabanaalina14/Weather_Prediction_EDA/tree/main
+git clone  https://github.com/shabanaalina14/Weather_Prediction_EDA/tree/main
+
+Contact For any questions or suggestions, please feel free to reach.
+
+Gmail: shabanaalina14@gmail.com
+
+GitHub Profile: shabanaalina14
+
+Happy Coding!
